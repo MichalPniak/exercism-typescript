@@ -1,2 +1,2 @@
 # exercism-typescript
-My typescript track solutions in exercism.
+My typescript track solutions in [exercism](https://exercism.org/tracks/typescript).
